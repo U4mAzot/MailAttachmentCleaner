@@ -1,0 +1,4 @@
+# kopie wiadomości użytkowników - nigdy nie wrzucać do repozytorium
+backup/
+logs/
+__pycache__/
